@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interactive-video/static/css/main.95359380.chunk.css",
+    "main.js": "/interactive-video/static/js/main.f2558712.chunk.js",
+    "main.js.map": "/interactive-video/static/js/main.f2558712.chunk.js.map",
+    "runtime~main.js": "/interactive-video/static/js/runtime~main.0c2903d7.js",
+    "runtime~main.js.map": "/interactive-video/static/js/runtime~main.0c2903d7.js.map",
+    "static/js/2.e9935e1c.chunk.js": "/interactive-video/static/js/2.e9935e1c.chunk.js",
+    "static/js/2.e9935e1c.chunk.js.map": "/interactive-video/static/js/2.e9935e1c.chunk.js.map",
+    "index.html": "/interactive-video/index.html",
+    "precache-manifest.c70a4c417c25a5a44b1d59a07efc2c42.js": "/interactive-video/precache-manifest.c70a4c417c25a5a44b1d59a07efc2c42.js",
+    "service-worker.js": "/interactive-video/service-worker.js",
+    "static/css/main.95359380.chunk.css.map": "/interactive-video/static/css/main.95359380.chunk.css.map",
+    "static/media/video1.mp4": "/interactive-video/static/media/video1.6ed5eaf5.mp4",
+    "static/media/video2.mp4": "/interactive-video/static/media/video2.7a4200e4.mp4",
+    "static/media/video3.mp4": "/interactive-video/static/media/video3.21c9cfc2.mp4",
+    "static/media/video4.mp4": "/interactive-video/static/media/video4.e9fe85c2.mp4",
+    "static/media/video5.mp4": "/interactive-video/static/media/video5.c26aff02.mp4",
+    "static/media/video6.mp4": "/interactive-video/static/media/video6.167abe3f.mp4",
+    "static/media/video7.mp4": "/interactive-video/static/media/video7.8616c756.mp4",
+    "static/media/video8.mp4": "/interactive-video/static/media/video8.4a59f782.mp4"
+  }
+}
